@@ -1,30 +1,47 @@
 {
-  "posts1": [
+  "posts-bicycle": [
 
     {
       "id":1,
-      "img":"Logo",
-      "item":"Amazen Corp",
-      "text":"A long established fact that a who looking at its layout."
+      "img":"image 23 (2)",
+      "logo":"image 59 (1)",
+      "item":"Распродано",
+      "text":"Bianchi AQUILA L DURA ACE DI2 TEAM JUMBO 2021",
+      "price":"5599"
     },
     {
       "id":2,
-      "img":"Logo (1)",
-      "item":"Megan Books",
-      "text":"A long established fact that a who looking at its layout."
+      "img":"image 23 (1)",
+      "logo":"image 59 (1)",
+      "item":"Распродано",
+      "text":"Trek Verve 2 Disc Lithium Grey HYBD 2022",
+      "price":"8999"
     },
     {
       "id":3,
-      "img":"Logo (2)",
-      "item":"Los Books",
-      "text":"A long established fact that a who looking at its layout."
+      "img":"image 23",
+      "logo":"image 59",
+      "item":"Распродано",
+      "text":"Bianchi AQUILA L DURA ACE DI2 TEAM JUMBO 2021",
+      "price":"4999"
     },
     {
       "id":4,
-      "img":"Logo (3)",
-      "item":"Amazen Corp",
-      "text":"A long established fact that a who looking at its layout."
+      "img":"image 23 (1)",
+      "logo":"image 59 (1)",
+      "item":"В наличии",
+      "text":"Bianchi AQUILA L DURA ACE DI2 TEAM JUMBO 2021",
+      "price":"7000"
+    },
+    {
+      "id":5,
+      "img":"image 23 (2)",
+      "logo":"image 59",
+      "item":"В наличии",
+      "text":"Trek Marlin 7 Matte Nautical Navy Matte Anth ATB 29 2022",
+      "price":"6999"
     }
+   
 
   ]
 
