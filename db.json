@@ -44,5 +44,43 @@
    
 
   ]
+  ,
+  "postes-helmet":[
+      {
+        "id":1,
+        "img":"image100",
+        "item":"Распродано",
+        "text":"Rudy Project Airstorm Lime Fluo White Shiny",
+        "price":"149"
+      },
+      {
+        "id":2,
+        "img":"image101",
+        "item":"Распродано",
+        "text":"Rudy Project Protera Blue Orange Matt",
+        "price":"199"
+      },
+      {
+        "id":3,
+        "img":"image102",
+        "item":"Распродано",
+        "text":"Rudy Project Avenger Titanium Lime Matt",
+        "price":"99"
+      },
+      {
+        "id":4,
+        "img":"image102",
+        "item":"Распродано",
+        "text":"Rudy Project Avenger Titanium Lime Matt",
+        "price":"59"
+      },
+      {
+        "id":5,
+        "img":"image101",
+        "item":"В наличии",
+        "text":"Rudy Project Airstorm Lime Fluo White Shiny",
+        "price":"149"
+      }
+  ]
 
 }
